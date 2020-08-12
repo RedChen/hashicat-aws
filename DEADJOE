@@ -1,0 +1,62 @@
+
+*** These modified files were found in JOE when it aborted on Wed Aug 12 08:58:55 2020
+*** JOE was aborted because the terminal closed
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+
+*** File '/root/hashicat-aws/.git/MERGE_MSG'
+wqMerge branch 'RedChen-patch-1' of https://github.com/RedChen/hashicat-aws
+
+# Please enter a commit message to explain why this merge is necessary,
+# especially if it merges an updated upstream into a topic branch.
+#
+# Lines starting with '#' will be ignored, and an empty message aborts
+# the commit.
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** These modified files were found in JOE when it aborted on Wed Aug 12 09:30:24 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
+
+*** File '(Unnamed)'
+q
+
+*** File '* Build Log *'
+
+JOE: cd /root/hashicat-aws
+
+/bin/sh: 3: q: not found
+
+JOE: [31mFAIL[0m (exit status = 127)
+
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/COMMIT_EDITMSG
+* Build Log *
+* Build Log *
+
+*** These modified files were found in JOE when it aborted on Wed Aug 12 09:32:53 2020
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+merge
+
+*** File '(Unnamed)'
+/root/hashicat-aws/.git/MERGE_MSG
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
